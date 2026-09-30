@@ -30,4 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarahlxzzz/leetcodelx/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarahlxzzz/leetcodelx/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/sarahlxzzz/leetcodelx/tree/master/1089-duplicate-zeros) |
+## Two Pointers
+|  |
+| ------- |
+| [1089-duplicate-zeros](https://github.com/sarahlxzzz/leetcodelx/tree/master/1089-duplicate-zeros) |
 <!---LeetCode Topics End-->
