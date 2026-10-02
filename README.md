@@ -35,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarahlxzzz/leetcodelx/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/sarahlxzzz/leetcodelx/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/sarahlxzzz/leetcodelx/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarahlxzzz/leetcodelx/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0027-remove-element) |
+| [0283-move-zeroes](https://github.com/sarahlxzzz/leetcodelx/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/sarahlxzzz/leetcodelx/tree/master/1089-duplicate-zeros) |
 ## Linked List
 |  |
