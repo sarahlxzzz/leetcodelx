@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarahlxzzz/leetcodelx/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0027-remove-element) |
+| [0137-single-number-ii](https://github.com/sarahlxzzz/leetcodelx/tree/master/0137-single-number-ii) |
 | [0283-move-zeroes](https://github.com/sarahlxzzz/leetcodelx/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/sarahlxzzz/leetcodelx/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/sarahlxzzz/leetcodelx/tree/master/0137-single-number-ii) |
 | [0389-find-the-difference](https://github.com/sarahlxzzz/leetcodelx/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
