@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sarahlxzzz/leetcodelx/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarahlxzzz/leetcodelx/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sarahlxzzz/leetcodelx/tree/master/0066-plus-one) |
+| [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
 | [0507-perfect-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0509-fibonacci-number) |
 ## Hash Table
 |  |
