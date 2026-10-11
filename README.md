@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarahlxzzz/leetcodelx/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sarahlxzzz/leetcodelx/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
+| [0168-excel-sheet-column-title](https://github.com/sarahlxzzz/leetcodelx/tree/master/0168-excel-sheet-column-title) |
 | [0507-perfect-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/sarahlxzzz/leetcodelx/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sarahlxzzz/leetcodelx/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/sarahlxzzz/leetcodelx/tree/master/0058-length-of-last-word) |
+| [0168-excel-sheet-column-title](https://github.com/sarahlxzzz/leetcodelx/tree/master/0168-excel-sheet-column-title) |
 | [0389-find-the-difference](https://github.com/sarahlxzzz/leetcodelx/tree/master/0389-find-the-difference) |
 ## Array
 |  |
