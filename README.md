@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarahlxzzz/leetcodelx/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarahlxzzz/leetcodelx/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/sarahlxzzz/leetcodelx/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/sarahlxzzz/leetcodelx/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/sarahlxzzz/leetcodelx/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/sarahlxzzz/leetcodelx/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/sarahlxzzz/leetcodelx/tree/master/0283-move-zeroes) |
 | [1089-duplicate-zeros](https://github.com/sarahlxzzz/leetcodelx/tree/master/1089-duplicate-zeros) |
 ## Two Pointers
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/sarahlxzzz/leetcodelx/tree/master/0389-find-the-difference) |
 ## Trie
 |  |
@@ -107,4 +110,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarahlxzzz/leetcodelx/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
