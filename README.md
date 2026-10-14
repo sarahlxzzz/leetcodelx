@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/sarahlxzzz/leetcodelx/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/sarahlxzzz/leetcodelx/tree/master/0168-excel-sheet-column-title) |
+| [0400-nth-digit](https://github.com/sarahlxzzz/leetcodelx/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0509-fibonacci-number) |
 ## Dynamic Programming
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/sarahlxzzz/leetcodelx/tree/master/0035-search-insert-position) |
+| [0400-nth-digit](https://github.com/sarahlxzzz/leetcodelx/tree/master/0400-nth-digit) |
 ## Stack
 |  |
 | ------- |
