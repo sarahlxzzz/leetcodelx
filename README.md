@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sarahlxzzz/leetcodelx/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/sarahlxzzz/leetcodelx/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/sarahlxzzz/leetcodelx/tree/master/0168-excel-sheet-column-title) |
 | [0400-nth-digit](https://github.com/sarahlxzzz/leetcodelx/tree/master/0400-nth-digit) |
 | [0507-perfect-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0507-perfect-number) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
+| [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/sarahlxzzz/leetcodelx/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -142,4 +144,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/sarahlxzzz/leetcodelx/tree/master/0214-shortest-palindrome) |
+## Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
+## Binary Tree
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
