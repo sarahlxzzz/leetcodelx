@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sarahlxzzz/leetcodelx/tree/master/0168-excel-sheet-column-title) |
 | [0214-shortest-palindrome](https://github.com/sarahlxzzz/leetcodelx/tree/master/0214-shortest-palindrome) |
 | [0389-find-the-difference](https://github.com/sarahlxzzz/leetcodelx/tree/master/0389-find-the-difference) |
+| [0402-remove-k-digits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0402-remove-k-digits) |
 ## Array
 |  |
 | ------- |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/sarahlxzzz/leetcodelx/tree/master/0020-valid-parentheses) |
+| [0402-remove-k-digits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0402-remove-k-digits) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -158,4 +160,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
+## Greedy
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0402-remove-k-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0402-remove-k-digits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0402-remove-k-digits) |
 <!---LeetCode Topics End-->
