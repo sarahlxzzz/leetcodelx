@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/sarahlxzzz/leetcodelx/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/sarahlxzzz/leetcodelx/tree/master/0120-triangle) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sarahlxzzz/leetcodelx/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/sarahlxzzz/leetcodelx/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/sarahlxzzz/leetcodelx/tree/master/0035-search-insert-position) |
+| [0064-minimum-path-sum](https://github.com/sarahlxzzz/leetcodelx/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/sarahlxzzz/leetcodelx/tree/master/0066-plus-one) |
 | [0120-triangle](https://github.com/sarahlxzzz/leetcodelx/tree/master/0120-triangle) |
 | [0137-single-number-ii](https://github.com/sarahlxzzz/leetcodelx/tree/master/0137-single-number-ii) |
@@ -171,4 +173,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0402-remove-k-digits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0402-remove-k-digits) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/sarahlxzzz/leetcodelx/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
