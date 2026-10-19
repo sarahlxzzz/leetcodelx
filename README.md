@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
 | [0120-triangle](https://github.com/sarahlxzzz/leetcodelx/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sarahlxzzz/leetcodelx/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0338-counting-bits) |
 | [0509-fibonacci-number](https://github.com/sarahlxzzz/leetcodelx/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/sarahlxzzz/leetcodelx/tree/master/0137-single-number-ii) |
+| [0338-counting-bits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sarahlxzzz/leetcodelx/tree/master/0389-find-the-difference) |
 ## Sorting
 |  |
