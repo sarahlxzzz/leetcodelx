@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/sarahlxzzz/leetcodelx/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sarahlxzzz/leetcodelx/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sarahlxzzz/leetcodelx/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/sarahlxzzz/leetcodelx/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/sarahlxzzz/leetcodelx/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/sarahlxzzz/leetcodelx/tree/master/0096-unique-binary-search-trees) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sarahlxzzz/leetcodelx/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/sarahlxzzz/leetcodelx/tree/master/0137-single-number-ii) |
 | [0338-counting-bits](https://github.com/sarahlxzzz/leetcodelx/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/sarahlxzzz/leetcodelx/tree/master/0389-find-the-difference) |
